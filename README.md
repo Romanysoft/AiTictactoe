@@ -1,2 +1,2 @@
 # AiTictactoe
-AiTictactoe 井字棋
+AiTictactoe
